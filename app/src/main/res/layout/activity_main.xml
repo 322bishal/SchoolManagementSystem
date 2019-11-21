@@ -88,7 +88,7 @@
         android:layout_marginTop="30dp"
         android:gravity="center_horizontal"
         android:text="SignUp"
-        android:textColor="#ffffff"
+        android:textColor="@color/colorPrimaryDark"
         android:textSize="25dp" />
 </LinearLayout>
 
